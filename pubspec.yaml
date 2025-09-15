@@ -1,6 +1,6 @@
 name: connectivity_plus_wrapper
 description: "A smarter, more insightful Flutter connectivity package.** Goes beyond basic online/offline detection to provide meaningful connection statuses, quality analysis, and seamless transition handling."
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/ahmedtalal/connectivity_plus_wrapper
 
 environment:
